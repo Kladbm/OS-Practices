@@ -213,9 +213,9 @@ int main() {
     printf("\nРізниця матриць 1 і 2:\n");
     printMatrix(subtractedMatrix);
 
-    saveMatrixToFile(matrix1, "../matrix.txt");
+    saveMatrixToFile(matrix1, "matrix.txt");
 
-    Matrix matrixFromFile = readMatrixFromFile("../matrix.txt");
+    Matrix matrixFromFile = readMatrixFromFile("matrix.txt");
 
     printf("\nМатриця, зчитана з файлу:\n");
     printMatrix(matrixFromFile);

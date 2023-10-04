@@ -1,0 +1,3 @@
+C:/Programming/OS-Practices/OS-Practice-3/Ex5/cmake-build-debug/CMakeFiles/Ex5.dir
+C:/Programming/OS-Practices/OS-Practice-3/Ex5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/OS-Practices/OS-Practice-3/Ex5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

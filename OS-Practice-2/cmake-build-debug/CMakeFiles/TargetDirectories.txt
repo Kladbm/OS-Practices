@@ -1,0 +1,3 @@
+C:/Programming/OS-Practices/OS-Practice-2/cmake-build-debug/CMakeFiles/OS_Practice_2.dir
+C:/Programming/OS-Practices/OS-Practice-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/OS-Practices/OS-Practice-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

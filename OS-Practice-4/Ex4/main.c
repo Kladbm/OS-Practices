@@ -21,6 +21,7 @@ int main(int argc, char *argv[]) {
     }
 
     // Вивести поточне оточення
+    extern char **environ;
     char **env = environ;
     while (*env) {
         printf("%s\n", *env);
